@@ -243,14 +243,6 @@
 
 /* sectio 5 */
 
-
-
-
-
-
-
-
-
 .cma-box {
   background-color: #fcece7;
   padding-top: 100px;
@@ -327,8 +319,6 @@
   font-size: 1.3rem;
 }
 
-
-
 /* sectio 6 */
 .start-card {
   position: relative;
@@ -367,54 +357,51 @@
   color: #222;
 }
 
-
 /* sectio 3 */
-.test-section{
+.test-section {
   background-color: #f42537;
   position: relative;
 }
 
-.test-left{
-
+.test-left {
 }
 
-.instructor{
-background-color: #fffb00;
-letter-spacing: 1px;
-padding: 6px;
-font-weight: bold;
-color:#787575;
+.instructor {
+  background-color: #fffb00;
+  letter-spacing: 1px;
+  padding: 6px;
+  font-weight: bold;
+  color: #787575;
 }
 
-.test-content{
-margin-top: 0;
-margin-bottom: 1rem;
-word-spacing: 2px;
-line-height: 35px;
-padding: 20px;
-font-size: 22px;
-text-align: justify;
-color: #3d3a3a;
+.test-content {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  word-spacing: 2px;
+  line-height: 25px;
+  padding: 20px 20px 20px 10px;
+  font-size: 20px;
+  text-align: justify;
+  color: #3d3a3a;
 }
 
-.part-logo{
+.part-logo {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.rating{
+.rating {
   padding: 5px;
   margin-left: 30px;
   font-weight: 600;
   font-size: 20px;
 }
 
-.test-part{
-
+.test-part {
 }
 
-.testomonial{
+.testomonial {
   background-color: #fff;
   margin: 10px;
   padding: 10px;
@@ -425,25 +412,22 @@ color: #3d3a3a;
   box-shadow: 14px 13px 10px -8px;
 }
 
-.testo-top{
+.testo-top {
   display: flex;
   align-items: center;
   margin-bottom: 0.8rem;
-
 }
 
-.testo-right{
-  
+.testo-right {
 }
-
 
 /* sectio 7 */
-.footer-line{
+.footer-line {
   font-weight: 600;
   letter-spacing: 0px;
 }
 
-.footer-btn{
+.footer-btn {
   font-size: 1.25rem;
   font-weight: 700;
   padding: 0.9rem 2.2rem;
@@ -455,23 +439,22 @@ color: #3d3a3a;
   align-items: center;
   grid-area: 5px;
   box-shadow: 5px 5px 0 #000000;
-  
 }
 
-.footer-box{
-max-width: 760px;
-position: relative;
-z-index: 1;
+.footer-box {
+  max-width: 760px;
+  position: relative;
+  z-index: 1;
 }
 
-.footer-box-referal{
-color: #ffffff;
-background-color: #ff0033;
-display: flex;
-align-items: center;
-justify-content: center;
-text-align: center;
-position: relative;
-overflow: hidden;
-padding: 20px;
+.footer-box-referal {
+  color: #ffffff;
+  background-color: #ff0033;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
 }
